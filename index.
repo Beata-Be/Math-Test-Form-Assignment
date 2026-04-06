@@ -51,7 +51,7 @@
         <!-- Word problem with multiline textarea -->
         <h3>Section 2: Word Problem</h3>
         <p>
-            Word Problem: If a train travels 60 kilometers in 1 hour, how far does it travel in 3 hours? 
+            Word Problem: If a train travels 60 kilometers in 1 hour, how many kilometers it will travel in 3 hours? 
             Please explain your calculation steps:
         </p>
         <textarea id="explanation" name="explanation" rows="4" cols="50"></textarea>
